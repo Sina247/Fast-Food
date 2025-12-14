@@ -19,4 +19,4 @@ A modern **Fast Food web app** where users can browse menus, order their favorit
 
 ## 🖼️ Screenshot
 
-<img width="1919" height="780" alt="Screenshot 2025-12-14 143358" src="https://github.com/user-attachments/assets/89128377-f20f-4291-9dab-54cd9f5da024" />
+<img width="928" height="760" alt="Screenshot 2025-12-14 143358" src="https://github.com/user-attachments/assets/2de66c3f-c623-4d30-a566-42866ee3b692" />
